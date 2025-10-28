@@ -1,1 +1,1 @@
-# KODPROJECTMOD9
+print("Hello world");
